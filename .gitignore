@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+deploy*.tar
+*.py
+__pycache__/
+项目速查卡.md
+系统逻辑文档.md
